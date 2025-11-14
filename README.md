@@ -32,7 +32,7 @@ La simulación se prueba usando el **XR Device Simulator**.
 
 ## ✔ Scripts incluidos  
 - `MensajeAlAgarrar.cs`  
-- `CambiarColorAlSeleccionar.cs`  
+- `CambiarColorAlInteractuar.cs`  
 
 ---
 
