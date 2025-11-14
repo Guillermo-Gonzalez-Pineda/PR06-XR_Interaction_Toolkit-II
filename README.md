@@ -15,7 +15,6 @@ La simulación se prueba usando el **XR Device Simulator**.
 ---
 
 ## 🎮 Demostración  
-*(Inserta aquí el GIF de funcionamiento)*
 
 ![demo](GIF/Ejercicio.gif)
 
